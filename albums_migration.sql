@@ -10,4 +10,5 @@ USE codeup_test_db;
         release_date    INT UNSIGNED NOT NULL,
         sales           DOUBLE(5, 2) NOT NULL,
         genre           VARCHAR(25) NOT NULL
+
     );
